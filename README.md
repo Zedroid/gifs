@@ -1,5 +1,7 @@
 Scrape all links put in excel columns replace blob with raw in https://github.com/androiddevnotes/reddit-awards/blob/main/assets/reactions/0o2j782f00e41_WholesomeSuperpro.png
 
+https://github.com/androiddevnotes/reddit-awards/raw/main/assets/reactions/0o2j782f00e41_WholesomeSuperpro.png
+
 <h1 align="center">List of Reddit Awards</h1></br>
 
 <p align="center">
@@ -37,7 +39,7 @@ apple peek heartheart
     <tr>
       <td align="center">
         <a
-          href="https://github.com/androiddevnotes/reddit-awards/blob/main/assets/reactions/0o2j782f00e41_WholesomeSuperpro.png"
+          href="https://github.com/androiddevnotes/reddit-awards/raw/main/assets/reactions/0o2j782f00e41_WholesomeSuperpro.png"
           ><img
             width="512px"
             src="https://github.com/androiddevnotes/reddit-awards/blob/main/assets/reactions/0o2j782f00e41_WholesomeSuperpro.png"
