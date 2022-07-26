@@ -16,7 +16,7 @@ https://github.com/androiddevnotes/reddit-awards/raw/main/assets/reactions/0o2j7
 
 </p>
 
-### [Download Reddit Awards Images in bulk by cloning the repository or downloading the zip.](https://github.com/androiddevnotes/reddit-awards/blob/main/assets/clone_repo_or_download_zip.png)
+### [Download Reddit Awards Images in bulk by chloning the repository or downloading the zip.](https://github.com/androiddevnotes/reddit-awards/blob/main/assets/clone_repo_or_download_zip.png)
 
 <br>
 
@@ -42,7 +42,7 @@ apple peek heartheart
           href="https://github.com/androiddevnotes/reddit-awards/raw/main/assets/reactions/0o2j782f00e41_WholesomeSuperpro.png"
           ><img
             width="512px"
-            src="https://github.com/androiddevnotes/reddit-awards/blob/main/assets/reactions/0o2j782f00e41_WholesomeSuperpro.png"
+            src="https://github.com/androiddevnotes/reddit-awards/raw/main/assets/reactions/0o2j782f00e41_WholesomeSuperpro.png"
             alt=""
         /></a>
       </td>
